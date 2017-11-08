@@ -5,3 +5,4 @@
   My code is in views and controllers.
 
 # Print Screen
+ ![image](https://github.com/zjx17/Assignment-One/PrintScreen/1.1.png) 
